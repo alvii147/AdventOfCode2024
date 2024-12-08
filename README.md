@@ -6,9 +6,9 @@
 
 [Advent of Code](https://adventofcode.com) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. This repository contains solutions to the 2024 Advent of Code calendar.
 
-Completed **4** out of **25** advent day puzzles.
+Completed **5** out of **25** advent day puzzles.
 
-![Progress Bar](https://progress-bar.xyz/16)
+![Progress Bar](https://progress-bar.xyz/20)
 
 Day | Puzzle | Solutions
 --- | --- | ---
@@ -16,3 +16,4 @@ Day | Puzzle | Solutions
 2 | [Red-Nosed Reports](https://adventofcode.com/2024/day/2) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x02/rust/src/main.rs)
 3 | [Mull It Over](https://adventofcode.com/2024/day/3) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x03/rust/src/main.rs)
 4 | [Ceres Search](https://adventofcode.com/2024/day/4) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x04/rust/src/main.rs)
+5 | [Print Queue](https://adventofcode.com/2024/day/5) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x05/rust/src/main.rs)
